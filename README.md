@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This will be mainly used for the Coursera Capstone Project
+This repository will be used for the Coursera Capstone course - part of IBM Data Science Professional Certificate.
